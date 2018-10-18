@@ -1,2 +1,2 @@
 # python
-Exercises of python. Include many interesting codes.
+Interesting projects I want to creat using python. Include many interesting codes.
